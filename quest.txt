@@ -1,0 +1,137 @@
+----------------05/01/23-----------------------
+
+Objetivos (1 duas semanas para definir objetivos)
+
+Tram e comboio (em principio não há problema)
+	
+databases
+
+o que fazer em janeiro
+
+recorrencia de reuniaos
+
+Overleaf
+
+Reunião cont:
+
+Hardware necessário.
+
+Estado da arte para 10 de fevereiro.
+	justificação da base de dados.
+	decidir conjunto de keywords (Tipo word association) e fazer querys
+	Meter num excel, analise quantitativa e qualitativa
+	Transformar KEYWORDS EM RESEARCH QUESTIONS.
+	escolher os papers: Filtrar por titulo; Filtrar por abstract; Filtragem se necessário;
+		agrupar e usar como citações
+	Parágrafo resumo e ideias chaves; desvantagens também.
+	Tabela comparativa no final do estado da arte.
+	
+	Keywords: Supervised learning ,Classification, Computer Vision, 
+		Trafic sign, Segmentation, trafic light, deep learning, machine learning, CNN
+	
+	Aplicar conceitos de outras areas(med imagining I.e) para a tese
+	Análise dos datasets
+	
+	Metricas para meidção de runtime.
+
+	Possivelmente correr em simulaçao na continental.
+
+	
+	
+A partir de fevereiro semanal quarta feira.
+	Obrigatorio uma vez por semana reuniao.
+	Updates mais vezes.
+	
+Começar por paper reviews e depois aprofundar
+
+
+--------------------13-01-22--------------------------
+
+Contrato em Fevereiro
+
+Estado da arte
+--------------------18-01-23----------------------
+
+Objetivos (Eles ja estao a ver)
+
+dia dez de feb ir a continental
+
+introdução 10 papers review
+
+estado arte 20 papers
+
+40 papers
+
+exposiçao e noise artificalmente aumentar
+
+learning rate bynary search de 10 a 100x menor que onde se fez transfer learning
+
+Mini btach size: se os weights 
+
+------------------25-02-23---------------------
+
+Why use kmeans in the bounding boxes?
+
+Objetivos
+
+Junho tem que estar feito e é so para ultimos pormenores.
+
+O objetivo nao é mudar muito o modelo•	Frequencia baixa de traffic lights.
+•	Falta de dados labeled.
+•	Desenvolver modelo em Pytorch.
+•	Baseado na legislação alemã.
+•	Focado nos sinais brancos de luz.
+
+Enviar na sexta à mafalda um emaila  perguntar quando precisa da assinatura.
+
+
+Ler:
+
+RegNet
+
+Efficient net
+
+CenterNet
+
+---------------01-02-23---------------------
+
+Fully Convolutional Networks for Semantic Segmentation
+    Nao entendi muito bem a estrotura e as alterações que eles fozeram. Ponto 3 e 4.
+
+C++ basicos
+memory management, pointers, dynamic cast
+
+Pesquisar mais centernet, regnet e efficientnet
+ler mais papers: 10
+
+CenterNet: a rede atira uma imagem de resolução pequena, e a losso function desenha algo nessa imagem, distribuiçoes gaussianas À volta desse ponto para cada classe com valor maximo. 
+Peagar nesses centros e ver um threshold.
+
+Para W&H existem mais dois espaços (heatmasp) em que em cda pixel esta o valor mais provavel de W ou H 
+
+Offsets
+
+
+----------------15-02-23-----------------------------
+
+
+Assinar NDA 
+
+
+cirar ferramenta para fazer labelling para playlist de videos do youtube:
+
+	https://github.com/heartexlabs/awesome-data-labeling
+
+pipeline fazer download, separar por frames, introduzir na interface, fazer pasta so com imagem anotada (e subpastas com categorias
+
+200 imagens para testar pipeline 
+
+
+CVAT is open source, the others cost money
+
+
+VGG image Anmotator (VIA)
+
+
+
+
